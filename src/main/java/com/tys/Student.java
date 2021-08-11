@@ -6,4 +6,5 @@ package com.tys;
  */
 public class Student {
     private  String nmae;
+    private int ss;
 }
